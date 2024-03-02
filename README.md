@@ -14,6 +14,4 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/ kajal-barale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kajal-barale" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajalbarale&show_icons=true&locale=en&layout=compact" alt="kajalbarale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajalbarale&show_icons=true&locale=en" alt="kajalbarale" /></p>
