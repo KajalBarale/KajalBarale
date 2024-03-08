@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalbarale&label=Profile%20views&color=0e75b6&style=flat" alt="kajalbarale" /> </p>
 
-- 💬 Ask me about **Mysql, MS EXCEL, Power BI, HTML, C/C++**
+- 💬 Ask me about **MYSQL, Power BI, Advance MS EXCEL, Power Query, MS SQL Server, Google Data Studio, HTML, C/C++**
 
 - 📫 How to reach me **kajalbarale9922@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h1yTIPBPbwZeqGRp_TMwBa77jXqKNCLf/view?usp=drivesdk](https://drive.google.com/file/d/1h1yTIPBPbwZeqGRp_TMwBa77jXqKNCLf/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I'm Funny🤔**
 
@@ -13,5 +15,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ kajal-barale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kajal-barale" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajalbarale&show_icons=true&locale=en&layout=compact" alt="kajalbarale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajalbarale&show_icons=true&locale=en" alt="kajalbarale" /></p>
+
 
 
