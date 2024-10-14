@@ -15,7 +15,7 @@ I’m a dedicated Data Analyst with a strong background in **Data Visualization*
 
 - 💬 Ask me about **MySQL, Power BI, Advanced MS Excel, Power Query, MS SQL Server, Google Data Studio, HTML, C/C++**  
 - 📫 How to reach me: **kajalbarale9922@gmail.com**  
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1JM_ZmbzI_U4L3OZ2jE2lHYqu9cTmbXkr/view?usp=sharing)
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1qdyp5w2lNNLXwcza5s-NP01wbfTGmJc3/view?usp=sharing)
 - ⚡ Fun fact: **I think I'm funny 🤔**
 
 ---
